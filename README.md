@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to The Awakening GitHub Page
 
-You can use the [editor on GitHub](https://github.com/CarlosMatheus/The-Awakening/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a project developed by three students of Instituto tecnológico de Aeronáutica - ITA.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The project is a first person puzzle game using Unity for CIG 2016, an internal college competition, in which this project won second place.
 
 ### Markdown
 
