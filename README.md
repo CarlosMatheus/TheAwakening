@@ -18,7 +18,7 @@ You can download and play The Awakening on its [itch.io page](https://carlos-mat
 ## About
 
 
-The Awakening was developed by three frashman students of Instituto tecnológico de Aeronáutica - [ITA](http://www.ita.br/).
+The Awakening was developed by three freshman students of Instituto tecnológico de Aeronáutica - [ITA](http://www.ita.br/).
 
 The project is a First Person Puzzle game. Is was made with Unity Engine.
 
@@ -27,7 +27,9 @@ It was originally developed to compete CIG 2016, in which won the second place. 
 
 ## Notes about contributing
 
-If any substantial change is made, please, contact any of the authors.
+The development repository moved to [GitLab](https://gitlab.com/CarlosMatheus/TheAwakening)!
+
+Then, in order to contribution and get access to the latest working code, please visity our repository in [GitLab](https://gitlab.com/CarlosMatheus/TheAwakening).
 
 ## Authors
 
