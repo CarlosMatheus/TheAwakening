@@ -3,7 +3,7 @@
 ![game](https://media.giphy.com/media/8PjJ8tyUVcfucEgZCf/giphy.gif)
 ![game](https://media.giphy.com/media/5aZWzDSH0vkD76w73c/giphy.gif)
 
-![game](https://media.giphy.com/media/20PwNKVsuWVJ4uzxA2/giphy.gif)
+![game](https://media.giphy.com/media/fMB1tSDbahPAmjWNKD/giphy.gif)
 ![game](https://media.giphy.com/media/1oFpGPpxY1ah0JBe4B/giphy.gif)
 
 “You awake up alone in a stunning island and can’t remember anything of what happened. Now the only thing left is to solve a number of puzzles that you find that allows you to go deeper in your mind" 
